@@ -82,7 +82,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" media="screen,projection"/>
+  <link type="text/css" rel="stylesheet" href="css/woff2.css" media="screen,projection"/>
   <link type="text/css" rel="stylesheet" href="helpers/materialize-1.0.0/css/materialize.min.css" media="screen,projection"/>
   <link type="text/css" rel="stylesheet" href="css/styles.css" media="screen,projection"/>
   <link  type="image/png" rel="icon" href="images/favicon.png" sizes="any"/>
